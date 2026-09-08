@@ -2,7 +2,7 @@
 
 A custom heart-shaped PCB designed as a gift project and created in KiCad.
 
-![3D PCB Render](Gift%20project%20render.png)
+![3D PCB Render](media/Gift%20project%20render.png)
 
 ## Features
 
