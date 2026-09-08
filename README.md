@@ -13,7 +13,7 @@ A custom heart-shaped PCB designed as a Mother's Day gift.
 - 555 timer oscillator
 - BJT inverter for complementary signals
 - MOSFET and BJT LED switching circuits
-- 4×AA battery power supply
+- 4xAA battery power supply
 - Custom 3D-printed stand
 
 ## Overview of Design Decisions
