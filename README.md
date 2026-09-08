@@ -16,7 +16,7 @@ A custom heart-shaped PCB designed as a Mother's Day gift.
 - 4×AA battery power supply
 
 ## Overview
-The circuit uses a 555 timer to generate a square wave. A BJT inverter creates the complementary signal needed for the two LED banks to blink in an alternating fashion. The design had the goal of maximizing each LED's brightness to ensure visibility during daytime. With the amount of LEDs wired in parallel on each bank, transistors were necessary to handle each bank's loads.
+The circuit uses a 555 timer to generate a square wave. A BJT inverter creates the complementary signal needed for the two LED banks to blink in an alternating fashion. The design had the goal of maximizing each LED's brightness to ensure visibility during daytime. With the amount of LEDs wired in parallel on each bank, transistors were necessary to handle each bank's loads in order to avoid exceeding the 555 timer's maximum rated output current.
 
 The PCB was designed in KiCad and manufactured through JLCPCB. Component selection included evaluating part substitutions when ordering from JLCPCB to reduce cost while maintaining functionality.
 
