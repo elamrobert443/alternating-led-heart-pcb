@@ -20,4 +20,4 @@ The circuit uses a 555 timer to generate a square wave. A BJT inverter creates t
 
 The PCB was designed in KiCad and manufactured through JLCPCB. Component selection included evaluating part substitutions when ordering from JLCPCB to reduce cost while maintaining functionality.
 
-This is my first PCB, and was made at the tail end of my freshman year at college (thus before I took any Electrical Engineering classes). Feel free to leave comments at elamrobert443@gmail.com
+This is my first PCB, and was made at the tail end of my freshman year at college (thus before I took any Electrical Engineering classes). Feel free to leave comments at rfe295@tamu.edu
