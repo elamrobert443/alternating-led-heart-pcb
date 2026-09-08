@@ -19,4 +19,4 @@ A custom heart-shaped PCB designed as a gift project and created in KiCad.
 
 The PCB was designed in KiCad and manufactured through JLCPCB. Component selection included evaluating substitutions to reduce cost while maintaining functionality.
 
-The circuit uses a 555 timer to generate a square wave. A BJT inverter creates the complementary signal needed to alternate between the two LED arrays.
+The circuit uses a 555 timer to generate a square wave. A BJT inverter creates the complementary signal needed to alternate between the two LED banks.
